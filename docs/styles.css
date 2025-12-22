@@ -1,1 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+
 /* css styles */
+
+/* color stuff*/
+
+:root{
+  --primary-color: #0F2282;
+  --background-color: #FFFDF8;
+  --accent-color: #17901F;
+}
+
+/* blanket settings */
+
+body {
+  font-family: 'Crimson Pro', serif;
+  background-color: var(--background-color);
+  color: var(--primary-color);
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Source Serif 4', serif;
+  color: var(--primary-color);
+}
+
+.navbar {
+  background-color: var(--background-color);
+}
+
+.navbar * {
+    color: var(--primary-color);
+}

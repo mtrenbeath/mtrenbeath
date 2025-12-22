@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "Mia Trenbeath"
+  title: "MIA TRENBEATH"
   navbar:
-    left:
-      - about.qmd
-      - projects.qmd
-      - writing.qmd
+    right:
+      - href: about.qmd
+        text: ABOUT
+      - href: projects.qmd
+        text: PROJECTS
+      - href: writing.qmd
+        text: WRITING
 
 format:
   html:

@@ -2,7 +2,6 @@
 title: "Mia Trenbeath"
 subtitle: "Student at the University of Rochester"
 image: headshot.png
-template: trestles
 ---
 
 
