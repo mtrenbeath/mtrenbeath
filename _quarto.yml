@@ -6,8 +6,6 @@ website:
   title: "Mia Trenbeath"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - about.qmd
       - projects.qmd
       - writing.qmd
