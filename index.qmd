@@ -1,12 +1,18 @@
 ---
 title: "Mia Trenbeath"
 subtitle: "Student at the University of Rochester"
-image: headshot4.png
+image: media/headshot4.png
+toc: false
+format: 
+  html:
+    grid:
+      body-width: 900px 
 about:
   template: broadside
-  image-width: 150px
 ---
 
-I am an undergraduate student (currently a sophomore) majoring in Optical Engineering and minoring in Physics at the University of Rochester. My primary research interests are in experimental quantum optics and engineering.
+I am an undergraduate student majoring in Optical Engineering and minoring in Physics at the University of Rochester. My primary research interests are in experimental quantum optics and engineering. Currently I work as an undergraduate research assistant for the Nichol Group in the Department of Physics.
 
-Placeholder text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Outside of academics, I am an avid reader, sing classically, and enjoy a variety of writing. If you are interested in reading some of my work, please check out the writing page on this site.
+
+If you would like to get in contact with me, please check out the contact page on this site. Thanks for stopping by!

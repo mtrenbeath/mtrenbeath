@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-
+robots: noindex
 website:
   title: MIA TRENBEATH
   navbar:
